@@ -1,0 +1,23 @@
+{
+  "name": "day_04_shoppingcart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lwx1990@github.com/lwx1990/Day_04_ShoppingCart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwx1990/Day_04_ShoppingCart/issues"
+  },
+  "homepage": "https://github.com/lwx1990/Day_04_ShoppingCart#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
